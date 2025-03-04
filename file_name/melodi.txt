@@ -1,0 +1,10 @@
+titlu1.artist1.Rock.12.9.2020
+titlu2.artist2.Jazz.30.7.2020
+titlu3.artist3.Pop.23.5.2010
+titlu4.artist4.Pop.21.4.2009
+titlu5.artist5.Pop.17.3.1987
+titlu6.artist6.Pop.15.8.1970
+titlu7.artist7.Rock.13.1.1990
+titlu8.artist8.Jazz.12.2.2004
+titlu9.artist9.Rock.16.10.2004
+titlu10.artist10.Rock.6.11.2003

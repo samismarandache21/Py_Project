@@ -38,3 +38,8 @@ Persistență: Modulul repository gestionează stocarea și accesul la date, uti
 ├── 📄 .gitattributes
 ├── 📄 .gitignore
 └── 📄 main.py
+🌟 De ce este acest proiect relevant pentru angajatori?
+🚀 Demonstrează Abilități în Python și OOP – Urmează cele mai bune practici în dezvoltarea software
+🚀 Arhitectură Modulară – Evidențiază capacitatea de a structura aplicații scalabile și ușor de întreținut
+🚀 Gestionarea Datelor și Validare – Arată competențe în manipularea și validarea datelor
+🚀 Interfață cu Utilizatorul – Experiență în dezvoltarea de interfețe pentru interacțiunea cu utilizatorii
